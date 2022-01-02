@@ -31,6 +31,9 @@
 ||*.smartadserver.com^$important
 ||*.aatkit.com^$important
 ||*.casalemedia.com^$important
+||*.taboola.com^$important 
+||*.adalliance.io^$important
+||*.smart-sense.org^$important
 ||*.tapjoy.com^$important
 ||*.stripe.com^$important
 ||*.tipser.com^$important
@@ -64,6 +67,8 @@
 ||sessions.bugsnag.com^$important
 ||*.podlove.org$important
 ||*.oneplus.com^$important
+||*.cxense.com^$important
 ||*.oneplus.net^$important
+||*.onetrust.com^$important
 ||*.ioam.de^$important
 ||*.inmobi.com$important
