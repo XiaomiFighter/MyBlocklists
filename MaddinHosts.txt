@@ -9,6 +9,8 @@
 ||graph.facebook.com^$important
 ||*.consensu.org^$important
 ||*.cn^$all
+||*.permutive.com^$important
+||*.mookie1.com^$important
 ||*.tisper.com^$important
 ||*.xceler.io^$important
 ||*.landbot.io^$important
@@ -16,15 +18,18 @@
 ||*.emetriq.com^$important
 ||*.opinary.com^$important
 ||*.mavenir.com^$important
+||*.spektrum.de^$important
 ||*.xiti.com^$important
 ||*.perimeterx.net^$important
 ||*.adnxs.com
 ||*.yieldlab.net^$important
+||*.rubiconproject.com^$important
 ||*.nativendo.de^$important
 ||*.onthe.io^$important
 ||*.pubmatic.com^$important
 ||*.coincap.io^$important
 ||*.smartadserver.com^$important
+||*.aatkit.com^$important
 ||*.casalemedia.com^$important
 ||*.tapjoy.com^$important
 ||*.stripe.com^$important
