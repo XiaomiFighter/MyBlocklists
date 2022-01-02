@@ -8,6 +8,8 @@
 ||graph.accountkit.com^$important
 ||graph.facebook.com^$important
 ||*.cn^$all
+||*.tisper.com^$important
+||*.xceler.io^$important
 ||*.landbot.io^$important
 ||*.upscore.com^$important
 ||*.emetriq.com^$important
