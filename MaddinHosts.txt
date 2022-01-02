@@ -55,7 +55,7 @@
 ||*.supersonicads.com^$important
 ||improving.duckduckgo.com^$important
 ||mobiletelemetry.ebay.com^$important
-||firebase-settings.crashlytics.com^$important
+||*.crashlytics.com^$important
 ||*.ru^$important
 ||*.civey.com^$all
 ||*.outbrain.com^$all
