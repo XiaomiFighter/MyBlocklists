@@ -12,6 +12,7 @@
 ||*.upscore.com^$important
 ||*.emetriq.com^$important
 ||*.opinary.com^$important
+||*.mavenir.com^$important
 ||*.xiti.com^$important
 ||*.adnxs.com
 ||*.yieldlab.net^$important
