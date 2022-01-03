@@ -82,4 +82,4 @@
 ||*.oneplus.net^$important
 ||*.onetrust.com^$important
 ||*.ioam.de^$important
-||*.inmobi.com$important
+||*.inmobi.com^$important
