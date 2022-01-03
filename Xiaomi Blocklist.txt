@@ -235,6 +235,7 @@ update.avlyun.sec.miui.com
 upgrade.mishop.pandora.xiaomi.com
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 us.api.micloud.xiaomi.net
+us.statusapi.micloud.xiaomi.net
 userid.xiaomi.com
 video.intl.xiaomi.com
 voip.game.xiaomi.com
