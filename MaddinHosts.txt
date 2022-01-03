@@ -33,6 +33,7 @@
 ||*.adnxs.com
 ||*.yieldlab.net^$important
 ||*.rubiconproject.com^$important
+||*.mixpanel.com^important
 ||*.nativendo.de^$important
 ||*.onthe.io^$important
 ||*.pubmatic.com^$important
