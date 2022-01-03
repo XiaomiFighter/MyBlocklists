@@ -101,7 +101,7 @@ file.xmpush.xiaomi.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
-||fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com^$important
+fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
