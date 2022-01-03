@@ -10,6 +10,7 @@
 ||*.meetrics.net^$important
 ||*.analytics.com^$important
 ||*.gameanalytics.com^$important
+||*.gms.android.google.com^$important
 ||*.consensu.org^$important
 ||*.cn^$all
 ||*.permutive.com^$important
