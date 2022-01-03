@@ -2,6 +2,7 @@
 ||ta-collector.centurygame.com^$important
 ||app.adjust.com^$important
 ||app.ajust.world^$important
+||ads.urban-media.com^$important
 ||app.adjust.net.in^$important
 ||*.adcolony.com^$important
 ||dit.whatsapp.net^$important
