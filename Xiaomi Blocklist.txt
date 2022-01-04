@@ -237,6 +237,7 @@ upgrade.mishop.pandora.xiaomi.com
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 us.api.micloud.xiaomi.net
 us.micardapi.micloud.xiaomi.net
+us.find.api.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 userid.xiaomi.com
 video.intl.xiaomi.com
