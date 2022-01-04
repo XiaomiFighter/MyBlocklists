@@ -57,7 +57,7 @@
 ||*.unpkg.com^$important
 ||plausible.io^$important
 ||players.delight-vr.com^$important
-||data.flurry.com^$all
+||*.flurry.com^$all
 ||*.doubleclick.net^$important
 ||*.agkjs.com^$important
 ||*.unity3d.com^$important
