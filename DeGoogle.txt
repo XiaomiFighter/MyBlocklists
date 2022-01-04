@@ -2,3 +2,4 @@
 ||googleadservices.com^$important
 ||*.doubleclick.net^$important
 ||www.google.com^$important
+||firebaseremoteconfig.googleapis.com^$important
