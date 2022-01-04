@@ -70,6 +70,7 @@
 ||mobiletelemetry.ebay.com^$important
 ||*.crashlytics.com^$important
 ||*.ru^$important
+||*.vungle.com^$imoortant
 ||*.civey.com^$all
 ||*.outbrain.com^$all
 ||*.optimizely.com^$all
