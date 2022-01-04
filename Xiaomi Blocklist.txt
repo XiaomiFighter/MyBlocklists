@@ -39,6 +39,7 @@ app.chat.xiaomi.net
 app.market.xiaomi.com
 app.mibi.xiaomi.com
 app.migc.xiaomi.com
+api.g.micloud.xiaomi.net
 app.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
 appstore.pandora.xiaomi.com
