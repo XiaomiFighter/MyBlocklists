@@ -70,7 +70,6 @@
 ||*.appsflyer.com^$important
 ||*.supersonicads.com^$important
 ||*.pubnative.net^$important
-||improving.duckduckgo.com^$important
 ||mobiletelemetry.ebay.com^$important
 ||*.crashlytics.com^$important
 ||*.ru^$important
