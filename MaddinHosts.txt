@@ -47,6 +47,7 @@
 ||*.adalliance.io^$important
 ||*.smart-sense.org^$important
 ||*.tapjoy.com^$important
+||*.5rocks.io^$important
 ||*.stripe.com^$important
 ||*.tipser.com^$important
 ||m.stripe.network^$important
@@ -56,6 +57,8 @@
 ||*.chartbeat.net^$important
 ||*.unpkg.com^$important
 ||plausible.io^$important
+||*.smaato.com^$important
+||*.smaato.net^$important
 ||players.delight-vr.com^$important
 ||*.flurry.com^$all
 ||*.doubleclick.net^$important
@@ -66,6 +69,7 @@
 ||*.usercentrics.eu^$all
 ||*.appsflyer.com^$important
 ||*.supersonicads.com^$important
+||*.pubnative.net^$important
 ||improving.duckduckgo.com^$important
 ||mobiletelemetry.ebay.com^$important
 ||*.crashlytics.com^$important
