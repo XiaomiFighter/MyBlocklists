@@ -76,7 +76,7 @@
 ||*.vungle.com^$imoortant
 ||*.civey.com^$all
 ||*.outbrain.com^$all
-||*.optimizely.com^$all
+||*.optimizely.com^$important
 ||*.cleverpush.com^$all
 ||*.sentry.io^$all
 ||securemetrics.apple.com^$important
