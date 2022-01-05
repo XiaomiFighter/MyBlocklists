@@ -24,7 +24,6 @@
 ||*.emetriq.com^$important
 ||*.opinary.com^$important
 ||appanalytics.tomtom.com^$important
-||*.mavenir.com^$important
 ||*.spektrum.de^$important
 ||analytics.twitter.com^$important
 ||queue.simpleanalyticscdn.com^$important
