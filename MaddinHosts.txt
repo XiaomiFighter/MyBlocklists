@@ -8,6 +8,7 @@
 ||dit.whatsapp.net^$important
 ||graph.accountkit.com^$important
 ||graph.facebook.com^$important
+||media-video.chip.de^%important
 ||*.meetrics.net^$important
 ||*.analytics.com^$important
 ||*.gameanalytics.com^$important
