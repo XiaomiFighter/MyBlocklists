@@ -4,3 +4,4 @@
 ||www.google.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
 ||connectivitycheck.gstatic.com^$important
+||firebaseinstallations.googleapis.com^$important
