@@ -11,6 +11,10 @@
 ||remote-data.urbanairship.com^
 ||firebase-settings.crashlytics.com^
 @@||android-context-data.googleapis.com^
+@@||amp-n--tv-de.cdn.ampproject.org^
+@@||www-tag24-de.cdn.ampproject.org^
+@@||www-bunte-de.cdn.ampproject.org^
+@@||www-googlewatchblog-de.cdn.ampproject.org^
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
