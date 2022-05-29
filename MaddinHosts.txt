@@ -151,6 +151,7 @@
 ||*.justpremium.com^
 ||*.dspx.tv^
 ||*.openx.net^
+||*opencloud*^
 ||*.emsservice.de^
 ||*criteo*^
 ||*adalliance*^
