@@ -10,10 +10,12 @@
 ||firebase-settings.crashlytics.com^
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
-||*vid*
+||*vid*^
 ||*sensic*^
 ||*adjust*^
 ||*inmobi*^
+||*mapcreator*^
+||*maps4news*^
 ||*bunchbox*^
 ||ad.flipboard.com^
 ||*.adcolony.com^
