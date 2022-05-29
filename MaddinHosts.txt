@@ -5,6 +5,7 @@
 ||sdkconfig.ad.intl.xiaomi.com^
 ||*doubleclick*^
 ||ssl.google-analytics.com^
+||*pubmatic*^
 ||*akisinn*^
 ||device-api.urbanairship.com^
 ||remote-data.urbanairship.com^
