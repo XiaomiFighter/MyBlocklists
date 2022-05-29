@@ -13,6 +13,7 @@
 ||*vid*^
 ||*sensic*^
 ||*adjust*^
+||*seedtag*^
 ||*inmobi*^
 ||*mapcreator*^
 ||*maps4news*^
