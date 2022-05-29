@@ -14,6 +14,7 @@
 ||*sensic*^
 ||*adjust*^
 ||*inmobi*^
+||*bunchbox*^
 ||ad.flipboard.com^
 ||*.adcolony.com^
 ||ads.api.vungle.com^
