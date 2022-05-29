@@ -12,6 +12,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
 ||*sensic*^
+||*stroeermediabrands*^
 ||*adjust*^
 ||*seedtag*^
 ||*inmobi*^
