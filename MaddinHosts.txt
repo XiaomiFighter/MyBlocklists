@@ -11,6 +11,7 @@
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*
+||*sensic*^
 ||*adjust*^
 ||*inmobi*^
 ||ad.flipboard.com^
