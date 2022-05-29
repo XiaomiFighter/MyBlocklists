@@ -8,6 +8,7 @@
 ||device-api.urbanairship.com^
 ||remote-data.urbanairship.com^
 ||firebase-settings.crashlytics.com^
+@@||android-context-data.googleapis.com^
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
