@@ -7,6 +7,7 @@
 ||*pubmatic*^
 ||*akisinn*^
 ||device-api.urbanairship.com^
+||imagesrv.adition.com^
 ||remote-data.urbanairship.com^
 ||firebase-settings.crashlytics.com^
 @@||android-context-data.googleapis.com^
