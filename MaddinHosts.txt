@@ -19,6 +19,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
 ||*sensic*^
+||ze.flipboard.com^
 ||*stroeermediabrands*^
 ||*adjust*^
 ||*seedtag*^
