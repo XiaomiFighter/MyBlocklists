@@ -11,6 +11,7 @@
 ||imagesrv.adition.com^
 ||remote-data.urbanairship.com^
 ||firebase-settings.crashlytics.com^
+||de.conv.indeed.com^
 @@||android-context-data.googleapis.com^
 @@||amp-n--tv-de.cdn.ampproject.org^
 @@||push.thw-messenger.de^
