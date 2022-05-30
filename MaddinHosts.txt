@@ -70,7 +70,6 @@
 ||*data*^
 ||*player*^
 ||*analytics*^
-||*ads*^
 ||^tag*^
 ||*adnxs*^
 ||*typekit*^
