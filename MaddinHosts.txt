@@ -7,6 +7,7 @@
 ||*pubmatic*^
 ||*akisinn*^
 ||tribl.io^
+||insights.sport1.de^
 ||cdn-magiclinks.trackonomics.net^
 ||api.sec.intl.miui.com^
 ||cdn.onthe.io^
