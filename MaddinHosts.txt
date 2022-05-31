@@ -7,6 +7,8 @@
 ||*pubmatic*^
 ||*akisinn*^
 ||tribl.io^
+||px.staticfiles.at^
+||www.npttech.com^
 ||cdn.shortpixel.ai^
 ||insights.sport1.de^
 ||cdn-magiclinks.trackonomics.net^
