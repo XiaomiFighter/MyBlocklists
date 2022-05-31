@@ -22,6 +22,8 @@
 @@||www-tag24-de.cdn.ampproject.org^
 @@||www-bunte-de.cdn.ampproject.org^
 @@||www-googlewatchblog-de.cdn.ampproject.org^
+||adservice.google.com^
+||aax.amazon-adsystem.com^
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
