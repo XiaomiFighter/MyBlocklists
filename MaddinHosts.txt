@@ -14,6 +14,7 @@
 ||de.conv.indeed.com^
 @@||android-context-data.googleapis.com^
 @@||amp-n--tv-de.cdn.ampproject.org^
+@@||covid.ourworldindata.org^
 @@||push.thw-messenger.de^
 @@||www-tag24-de.cdn.ampproject.org^
 @@||www-bunte-de.cdn.ampproject.org^
