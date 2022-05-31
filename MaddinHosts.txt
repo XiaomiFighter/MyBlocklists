@@ -26,6 +26,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||*vid*^
 ||*sensic*^
+||c.amazon-adsystem.com^
 ||ze.flipboard.com^
 ||*stroeermediabrands*^
 ||*adjust*^
