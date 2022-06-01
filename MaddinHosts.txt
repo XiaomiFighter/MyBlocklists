@@ -44,7 +44,6 @@
 ||ad.flipboard.com^
 ||*.adcolony.com^
 ||ads.api.vungle.com^
-||*.unity3d.com^
 ||*.supersonicads.com^
 ||api.g.micloud.xiaomi.net^
 ||*.chartboost.com^
