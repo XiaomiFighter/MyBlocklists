@@ -6,6 +6,7 @@
 ||*doubleclick*^
 ||*pubmatic*^
 ||*akisinn*^
+||cdn.stroeerdigitalgroup.de^
 ||tribl.io^
 ||9lc.ma.tarnkappe.info^
 ||px.staticfiles.at^
