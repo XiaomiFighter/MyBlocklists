@@ -34,13 +34,11 @@
 ||firebase-settings.crashlytics.com^
 ||de.conv.indeed.com^
 @@||android-context-data.googleapis.com^
-@@||covid.ourworldindata.org^
 @@||push.thw-messenger.de^
 ||adservice.google.com^
 ||aax.amazon-adsystem.com^
 ||*.xyz^
 ||crashlyticsreports-pa.googleapis.com^
-||*vid*^
 ||*sensic*^
 ||c.amazon-adsystem.com^
 ||ze.flipboard.com^
