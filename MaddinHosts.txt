@@ -20,6 +20,9 @@
 ||px.staticfiles.at^
 ||www.npttech.com^
 ||cdn.shortpixel.ai^
+||beacons5.gvt3.com^
+||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
 ||static.civey.com^
 ||collector.github.com^
 ||insights.sport1.de^
