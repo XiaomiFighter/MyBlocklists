@@ -258,6 +258,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||in.appcenter.ms^
 ||*mopub*^
+||beacons4.gvt2.com^
 ||ue.flipboard.com^
 ||*usebutton*^
 ||cdn.privacy-mgmt.com^
