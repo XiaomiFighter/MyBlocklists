@@ -20,6 +20,8 @@
 ||api.sec.intl.miui.com^
 ||cdn.onthe.io^
 ||d2wu036mkcz52n.cloudfront.net^
+||pixel.adsafeprotected.com^
+||bid.sxp.smartclip.net^
 ||cdn.blueconic.net^
 ||device-api.urbanairship.com^
 ||imagesrv.adition.com^
