@@ -8,6 +8,7 @@
 ||*akisinn*^
 ||a.teads.tv^
 ||mzhlhrfr8z.info^
+@@||login5.spotify.com^
 ||61d.ma.tarnkappe.info^
 ||cdn.stroeerdigitalgroup.de^
 ||tsp.stats.urban-media.com^
@@ -20,6 +21,7 @@
 ||www.npttech.com^
 ||cdn.shortpixel.ai^
 ||static.civey.com^
+||collector.github.com^
 ||insights.sport1.de^
 ||cdn-magiclinks.trackonomics.net^
 ||api.sec.intl.miui.com^
