@@ -13,6 +13,9 @@
 ||tsp.stats.urban-media.com^
 ||tribl.io^
 ||9lc.ma.tarnkappe.info^
+||tagger.opecloud.com^
+||www.googleadservices.com^
+||as.welt.de^
 ||px.staticfiles.at^
 ||www.npttech.com^
 ||cdn.shortpixel.ai^
