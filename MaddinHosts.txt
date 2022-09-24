@@ -20,6 +20,7 @@
 ||as.welt.de^
 ||px.staticfiles.at^
 ||www.npttech.com^
+||api16-access-sg.pangle.io^
 ||cdn.shortpixel.ai^
 ||beacons5.gvt3.com^
 ||beacons.gcp.gvt2.com^
