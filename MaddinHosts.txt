@@ -3,6 +3,7 @@
 ||web.facebook.com^
 ||dit.whatsapp.net^
 ||sdkconfig.ad.intl.xiaomi.com^
+||sdk-events.inner-active.mobi^
 ||*doubleclick*^
 ||*pubmatic*^
 ||*akisinn*^
