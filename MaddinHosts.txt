@@ -13,6 +13,7 @@
 @@||login5.spotify.com^
 ||61d.ma.tarnkappe.info^
 ||cdn.stroeerdigitalgroup.de^
+||cdn2.inner-active.mobi^
 ||tsp.stats.urban-media.com^
 ||tribl.io^
 ||9lc.ma.tarnkappe.info^
