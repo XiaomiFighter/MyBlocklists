@@ -20,6 +20,7 @@
 ||tsp.stats.urban-media.com^
 ||tribl.io^
 ||9lc.ma.tarnkappe.info^
+||*.moatads.com^
 ||tagger.opecloud.com^
 ||www.googleadservices.com^
 ||as.welt.de^
