@@ -2,6 +2,8 @@
 ||graph.accountkit.com^
 ||web.facebook.com^
 ||dit.whatsapp.net^
+||inneractive-assets.s3-eu-west-1.amazonaws.com^
+||hbrc.pubnative.net^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdk-events.inner-active.mobi^
 ||*doubleclick*^
@@ -24,6 +26,7 @@
 ||www.npttech.com^
 ||api16-access-sg.pangle.io^
 ||cdn.shortpixel.ai^
+||networksdk.ssacdn.com^
 ||beacons5.gvt3.com^
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
