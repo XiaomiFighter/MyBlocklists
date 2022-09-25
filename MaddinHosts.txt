@@ -9,8 +9,15 @@
 ||*doubleclick*^
 ||*pubmatic*^
 ||*akisinn*^
+||atlas1.krone.at^
 ||a.teads.tv^
 ||collector.xhamster.com^
+||cdn.scarabresearch.com^
+||experience-eu.piano.io^
+||static.hotjar.com^
+||cdn.onesignal.com^
+||dmxleo.dailymotion.com^
+||pebed.dm-event.net^
 ||mzhlhrfr8z.info^
 ||us.pdc.micloud.xiaomi.net^
 ||tsyndicate.com^
