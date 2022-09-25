@@ -13,10 +13,13 @@
 ||collector.xhamster.com^
 ||mzhlhrfr8z.info^
 ||us.pdc.micloud.xiaomi.net^
+||tsyndicate.com^
 @@||login5.spotify.com^
 ||61d.ma.tarnkappe.info^
 ||cdn.stroeerdigitalgroup.de^
+||cnt.xhamster.com^
 ||cdn2.inner-active.mobi^
+||lcdn.tsyndicate.com^
 ||tsp.stats.urban-media.com^
 ||tribl.io^
 ||9lc.ma.tarnkappe.info^
