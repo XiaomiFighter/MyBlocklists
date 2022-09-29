@@ -2,6 +2,7 @@
 ||graph.accountkit.com^
 ||web.facebook.com^
 ||dit.whatsapp.net^
+||sf16-static.i18n-pglstatp.com^
 ||inneractive-assets.s3-eu-west-1.amazonaws.com^
 ||hbrc.pubnative.net^
 ||sdkconfig.ad.intl.xiaomi.com^
