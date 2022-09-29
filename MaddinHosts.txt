@@ -13,6 +13,7 @@
 ||atlas1.krone.at^
 ||web.hb.ad.cpe.dotomi.com^
 ||aax-eu.amazon-adsystem.com^
+||trmads.eu^
 ||ct.pinterest.com^
 ||hb.emxdgt.com^
 ||btlr.sharethrough.com^
