@@ -20,6 +20,7 @@
 ||experience-eu.piano.io^
 ||static.hotjar.com^
 ||cdn.onesignal.com^
+||ups.xplosion.de^
 ||dmxleo.dailymotion.com^
 ||pebed.dm-event.net^
 ||mzhlhrfr8z.info^
