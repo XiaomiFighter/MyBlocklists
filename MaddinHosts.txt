@@ -1,6 +1,7 @@
 ||graph.facebook.com^
 ||graph.accountkit.com^
 ||web.facebook.com^
+||srv.pixel.parsely.com^
 ||dit.whatsapp.net^
 ||sf16-static.i18n-pglstatp.com^
 ||inneractive-assets.s3-eu-west-1.amazonaws.com^
