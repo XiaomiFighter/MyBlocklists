@@ -5,6 +5,7 @@
 ||sf16-static.i18n-pglstatp.com^
 ||inneractive-assets.s3-eu-west-1.amazonaws.com^
 ||hbrc.pubnative.net^
+||gn-flagpoles.api.bbci.co.uk^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdk-events.inner-active.mobi^
 ||*doubleclick*^
