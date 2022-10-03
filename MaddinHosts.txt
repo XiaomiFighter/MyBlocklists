@@ -19,6 +19,9 @@
 ||btlr.sharethrough.com^
 ||a.teads.tv^
 ||collector.xhamster.com^
+||amprtc.adtech.cohesionapps.com^
+||saa.cnet.com^
+||collect.tealiumiq.com^
 ||cdn.scarabresearch.com^
 ||experience-eu.piano.io^
 ||static.hotjar.com^
