@@ -183,7 +183,6 @@
 ||*h5v*^
 ||*plausible*^
 ||*ioam*^
-||*log*^
 ||*push*^
 ||*yieldlove*^
 ||*tracking*^
