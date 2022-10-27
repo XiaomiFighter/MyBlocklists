@@ -218,8 +218,12 @@
 ||*typekit*^
 ||*.site^
 ||*xyz*^
-||*userlocation*^
+||sdk-hb-cfg.smaato.net^
+||firebaselogging-pa.googleapis.com^
 ||*castalemedia*^
+||logs1413.xiti.com^
+||edge.conative.network^
+||eu.webhook.logs.insight.rapid7.com^
 ||*districtm*^
 ||*casalemedia*^
 ||*3lift*^
