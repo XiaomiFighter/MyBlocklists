@@ -361,6 +361,11 @@
 ||*bugsnag*^
 ||*.cn^
 ||*.ru^
+||*.sy^
+||*.cu^
+||*.sd^
+||*.ly^
+||*.ye^
 ||cloudfront-eu-central-1.images.arcpublishing.com^
 ||*mxcdn*^
 ||js-sec.indexww.com^
